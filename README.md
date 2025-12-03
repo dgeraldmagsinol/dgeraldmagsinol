@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Gerald Magsino
 
 I'm a **NOC Engineer** with 5+ years of experience in network and system infrastructure monitoring.
-Currently transitioning into **Cloud & DevOps**, focusing on **Azure Administration**, **Infrastructure as Code (Terraform)**, and **Kubernetes**
+Currently transitioning into **Cloud & System Administration**, focusing on **Azure Administration**, **Infrastructure as Code (Terraform)**, and **Kubernetes**
 
 ### ☁️ Cloud Learning Journey
 - Microsoft Certified: Azure Fundamentals (AZ-900)
